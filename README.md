@@ -1,2 +1,3 @@
-# atvlaw
-ATVLaw's website
+---
+permalink: /index.html
+---
